@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7293907
+  lightness: 0.7634408
+  brandStrength: 0.3970873
+  brandColors:
+    - '#B1B0AE'
+    - '#DCDEDB'
+    - '#454640'
+    - '#131418'
+    - '#7B7B7B'
+  rhythmicContrast: 0
+typography_spectrum: 0
+name: BentoBox
